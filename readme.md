@@ -8,3 +8,4 @@
 
 - Free Icons: [https://game-icons.net/](https://game-icons.net/)
 - Free Tokens/Maps: [https://www.forgotten-adventures.net/live-gallery/](https://www.forgotten-adventures.net/live-gallery/)
+- Remove Backgrounds: [https://www.remove.bg/](https://www.remove.bg/)
